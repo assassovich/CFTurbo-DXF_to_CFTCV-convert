@@ -1,5 +1,7 @@
 # DXF to CFTCV Converter - GUI версия
 
+<img width="1415" height="1114" alt="image" src="https://github.com/user-attachments/assets/9253fd87-1640-4601-bf39-d0337ce8e23d" />
+
 Программа для конвертации файлов DXF в формат CFTCV с графическим интерфейсом. Предназначена для программы CFTurbo offsite: https://cfturbo.com/software/download
 
 ## Возможности
@@ -74,4 +76,5 @@ x2 y2
 ```
 
 Каждая пара строк представляет один сегмент (начало и конец).
+
 
