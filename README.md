@@ -27,7 +27,7 @@ pip install matplotlib numpy ezdxf
 ## Запуск программы
 
 ```bash
-python dxf_converter_gui.py
+python main_gui.py
 ```
 
 ## Использование
@@ -76,5 +76,6 @@ x2 y2
 ```
 
 Каждая пара строк представляет один сегмент (начало и конец).
+
 
 
